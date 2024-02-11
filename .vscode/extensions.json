@@ -5,6 +5,6 @@
         "github.vscode-pull-request-github",
         "EditorConfig.EditorConfig",
         "ms-vsliveshare.vsliveshare",
-        "webhint.vscode-webhint"
+        "webhint.vscode-eslint"
     ]
 }
